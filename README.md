@@ -1,4 +1,5 @@
-"# SPLflix" 
+"# SPLflix"
+
  program that simulates a new streaming service -
 SPLFLIX. SPLFLIX offers users two types of streaming content – movies and tv-episodes,
 which belong to a given tv-series. Like most
@@ -16,3 +17,5 @@ At each point during the session, there is only one active user (while other use
 considered as non-active), which means- only one user can watch SPLFLIX at any given point.
 The program  receive a config file (json) as an input, which includes all the information
 about the available streaming content .
+
+** used rule of 5, Double Dispatch.
